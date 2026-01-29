@@ -325,3 +325,5 @@
 [2026-01-29 12:05:11] Location: West | Severity: HIGH
 [2026-01-29 12:05:13] Location: East | Severity: HIGH
 [2026-01-29 12:05:16] Location: South | Severity: CRITICAL
+[2026-01-29 12:05:18] Location: West | Severity: HIGH
+[2026-01-29 12:05:21] Location: West | Severity: CRITICAL
